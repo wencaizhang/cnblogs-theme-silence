@@ -75,14 +75,14 @@ npm run build                                                   # 重新构建
 
 简约 · 蓝
 
-![](./docs/theme_default.png)
+![](https://cdn.jsdelivr.net/gh/wencaizhang/cnblogs-theme-silence/docs/theme_default.png)
 
 暗黑 · 绿
 
-![](./docs/theme_dark.png)
+![](https://cdn.jsdelivr.net/gh/wencaizhang/cnblogs-theme-silence/docs/theme_dark.png)
 
 女神 · 粉
 
-![](./docs/theme_goddess.png)
+![](https://cdn.jsdelivr.net/gh/wencaizhang/cnblogs-theme-silence/docs/theme_goddess.png)
 
 </div> 
